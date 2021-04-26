@@ -1,0 +1,64 @@
+.right-column-head {
+text-transform: uppercase;
+font-size: 20px;
+font-weight: normal;
+}
+.left-column-head {
+text-transform: uppercase;
+font-size: 20px;
+font-weight: normal;
+}
+.skills {
+    list-style-type:none;
+    text-align: center; 
+}
+.duty {
+    list-style-position: inside;
+}
+.grey {
+    color: darkgrey;
+}
+/* .line-phone {
+    text-align: center;
+    color: darkgrey;
+    border-left: 2px solid #ccc;
+    margin-left: 500px;
+    width: 23%;
+}*/
+.line-phone {
+    text-align: center;
+    color: darkgrey;
+    border-left: 2px solid #ccc;
+    padding-left: 5px;
+    padding-right: 5px;
+    position: static;
+    padding: 2px;
+    float: left;
+    width: 20%;
+    margin-left: 10%;
+    margin-right: 3%;
+}
+.line-phone:last-child {
+    margin-right: 2%;
+}
+.position-history {
+    color: black;
+}
+section {
+    margin-top: 30px;
+}
+h3 {
+    color: darkgrey;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: normal;
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+}
+header {
+    text-align: center;
+    letter-spacing: 1.5px;
+}
